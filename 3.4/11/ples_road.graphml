@@ -1,0 +1,2481 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d17" for="edge" attr.name="bridge" attr.type="string"/>
+<key id="d16" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d15" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d14" for="edge" attr.name="length" attr.type="string"/>
+<key id="d13" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="ref" attr.type="string"/>
+<key id="d10" for="edge" attr.name="name" attr.type="string"/>
+<key id="d9" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d8" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d7" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2026-06-12 21:56:27</data>
+<data key="d1">OSMnx 2.1.0</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="456844541">
+  <data key="d4">57.4562627</data>
+  <data key="d5">41.5123327</data>
+  <data key="d6">3</data>
+</node>
+<node id="712575698">
+  <data key="d4">57.454524</data>
+  <data key="d5">41.5089037</data>
+  <data key="d6">3</data>
+</node>
+<node id="712598829">
+  <data key="d4">57.4565162</data>
+  <data key="d5">41.5092242</data>
+  <data key="d6">3</data>
+</node>
+<node id="712598846">
+  <data key="d4">57.4551536</data>
+  <data key="d5">41.4847067</data>
+  <data key="d6">3</data>
+</node>
+<node id="712598897">
+  <data key="d4">57.4512392</data>
+  <data key="d5">41.4950764</data>
+  <data key="d6">3</data>
+</node>
+<node id="712598930">
+  <data key="d4">57.4569307</data>
+  <data key="d5">41.4944705</data>
+  <data key="d6">3</data>
+</node>
+<node id="712598960">
+  <data key="d4">57.4577033</data>
+  <data key="d5">41.5096288</data>
+  <data key="d6">4</data>
+</node>
+<node id="712598966">
+  <data key="d4">57.4568868</data>
+  <data key="d5">41.5043042</data>
+  <data key="d6">4</data>
+</node>
+<node id="712598972">
+  <data key="d4">57.4547196</data>
+  <data key="d5">41.4964169</data>
+  <data key="d6">3</data>
+</node>
+<node id="712598977">
+  <data key="d4">57.4584345</data>
+  <data key="d5">41.5029998</data>
+  <data key="d6">3</data>
+</node>
+<node id="712599035">
+  <data key="d4">57.4569477</data>
+  <data key="d5">41.5028571</data>
+  <data key="d6">3</data>
+</node>
+<node id="712599069">
+  <data key="d4">57.4573736</data>
+  <data key="d5">41.4966196</data>
+  <data key="d6">3</data>
+</node>
+<node id="712599125">
+  <data key="d4">57.4566588</data>
+  <data key="d5">41.507471</data>
+  <data key="d6">4</data>
+</node>
+<node id="950916861">
+  <data key="d4">57.4570436</data>
+  <data key="d5">41.5166779</data>
+  <data key="d6">1</data>
+</node>
+<node id="950917125">
+  <data key="d4">57.4578085</data>
+  <data key="d5">41.522736</data>
+  <data key="d6">3</data>
+</node>
+<node id="950917142">
+  <data key="d4">57.4612245</data>
+  <data key="d5">41.5130117</data>
+  <data key="d6">3</data>
+</node>
+<node id="950917243">
+  <data key="d4">57.4568898</data>
+  <data key="d5">41.5202485</data>
+  <data key="d6">3</data>
+</node>
+<node id="950917260">
+  <data key="d4">57.4570296</data>
+  <data key="d5">41.519992</data>
+  <data key="d6">3</data>
+</node>
+<node id="950917517">
+  <data key="d4">57.459487</data>
+  <data key="d5">41.5235408</data>
+  <data key="d6">3</data>
+</node>
+<node id="950917639">
+  <data key="d4">57.4570885</data>
+  <data key="d5">41.5186003</data>
+  <data key="d6">3</data>
+</node>
+<node id="1253019367">
+  <data key="d4">57.4587545</data>
+  <data key="d5">41.5231839</data>
+  <data key="d6">3</data>
+</node>
+<node id="1253019376">
+  <data key="d4">57.4580114</data>
+  <data key="d5">41.5062122</data>
+  <data key="d6">3</data>
+</node>
+<node id="1253019381">
+  <data key="d4">57.4567882</data>
+  <data key="d5">41.5058132</data>
+  <data key="d6">4</data>
+</node>
+<node id="1253019396">
+  <data key="d4">57.4553848</data>
+  <data key="d5">41.5038957</data>
+  <data key="d6">3</data>
+</node>
+<node id="1253019398">
+  <data key="d4">57.4552247</data>
+  <data key="d5">41.5053136</data>
+  <data key="d6">4</data>
+</node>
+<node id="1253019399">
+  <data key="d4">57.4626343</data>
+  <data key="d5">41.5041206</data>
+  <data key="d6">3</data>
+</node>
+<node id="1253019402">
+  <data key="d4">57.4544736</data>
+  <data key="d5">41.4962195</data>
+  <data key="d6">3</data>
+</node>
+<node id="1253019407">
+  <data key="d4">57.4586223</data>
+  <data key="d5">41.5248339</data>
+  <data key="d6">4</data>
+</node>
+<node id="1253019409">
+  <data key="d4">57.463142</data>
+  <data key="d5">41.5012681</data>
+  <data key="d6">3</data>
+</node>
+<node id="1253019414">
+  <data key="d4">57.4582256</data>
+  <data key="d5">41.5046015</data>
+  <data key="d6">3</data>
+</node>
+<node id="1253019427">
+  <data key="d4">57.4529158</data>
+  <data key="d5">41.5034815</data>
+  <data key="d6">3</data>
+</node>
+<node id="1253019446">
+  <data key="d4">57.4554427</data>
+  <data key="d5">41.5205046</data>
+  <data key="d6">1</data>
+</node>
+<node id="1253019451">
+  <data key="d4">57.459343</data>
+  <data key="d5">41.5250807</data>
+  <data key="d6">3</data>
+</node>
+<node id="1253019452">
+  <data key="d4">57.4523577</data>
+  <data key="d5">41.5050698</data>
+  <data key="d6">3</data>
+</node>
+<node id="1253019458">
+  <data key="d4">57.4578607</data>
+  <data key="d5">41.5079343</data>
+  <data key="d6">3</data>
+</node>
+<node id="1253019463">
+  <data key="d4">57.4623732</data>
+  <data key="d5">41.5027998</data>
+  <data key="d6">4</data>
+</node>
+<node id="1253019466">
+  <data key="d4">57.4539427</data>
+  <data key="d5">41.4960222</data>
+  <data key="d6">3</data>
+</node>
+<node id="1253019475">
+  <data key="d4">57.4533179</data>
+  <data key="d5">41.5047526</data>
+  <data key="d6">3</data>
+</node>
+<node id="1381498072">
+  <data key="d4">57.4559154</data>
+  <data key="d5">41.5122066</data>
+  <data key="d6">3</data>
+</node>
+<node id="1381498076">
+  <data key="d4">57.4560293</data>
+  <data key="d5">41.5117556</data>
+  <data key="d6">3</data>
+</node>
+<node id="1381498158">
+  <data key="d4">57.4582559</data>
+  <data key="d5">41.5247809</data>
+  <data key="d6">3</data>
+</node>
+<node id="1381498419">
+  <data key="d4">57.461904</data>
+  <data key="d5">41.5010852</data>
+  <data key="d6">3</data>
+</node>
+<node id="1382941042">
+  <data key="d4">57.4571998</data>
+  <data key="d5">41.4953212</data>
+  <data key="d6">3</data>
+</node>
+<node id="1382941048">
+  <data key="d4">57.4587272</data>
+  <data key="d5">41.4954394</data>
+  <data key="d6">3</data>
+</node>
+<node id="1382941049">
+  <data key="d4">57.4590403</data>
+  <data key="d5">41.5289859</data>
+  <data key="d6">3</data>
+</node>
+<node id="1501728299">
+  <data key="d4">57.4613547</data>
+  <data key="d5">41.5120161</data>
+  <data key="d6">3</data>
+</node>
+<node id="1501753139">
+  <data key="d4">57.460494</data>
+  <data key="d5">41.5121298</data>
+  <data key="d6">4</data>
+</node>
+<node id="1787819553">
+  <data key="d4">57.445723</data>
+  <data key="d5">41.4970047</data>
+  <data key="d6">1</data>
+</node>
+<node id="1787821178">
+  <data key="d4">57.4569714</data>
+  <data key="d5">41.5226736</data>
+  <data key="d6">1</data>
+</node>
+<node id="1787821532">
+  <data key="d4">57.4576469</data>
+  <data key="d5">41.5229147</data>
+  <data key="d6">3</data>
+</node>
+<node id="1787821624">
+  <data key="d4">57.4578425</data>
+  <data key="d5">41.5349118</data>
+  <data key="d6">1</data>
+</node>
+<node id="1787821745">
+  <data key="d4">57.458092</data>
+  <data key="d5">41.5249032</data>
+  <data key="d6">1</data>
+</node>
+<node id="1788872925">
+  <data key="d4">57.4568536</data>
+  <data key="d5">41.5142833</data>
+  <data key="d6">3</data>
+</node>
+<node id="1789201283">
+  <data key="d4">57.4548799</data>
+  <data key="d5">41.5088197</data>
+  <data key="d6">3</data>
+</node>
+<node id="1789201294">
+  <data key="d4">57.4550622</data>
+  <data key="d5">41.507043</data>
+  <data key="d6">4</data>
+</node>
+<node id="1789201348">
+  <data key="d4">57.4554023</data>
+  <data key="d5">41.494511</data>
+  <data key="d6">3</data>
+</node>
+<node id="1789201378">
+  <data key="d4">57.455602</data>
+  <data key="d5">41.4875016</data>
+  <data key="d6">3</data>
+</node>
+<node id="1789201382">
+  <data key="d4">57.4556344</data>
+  <data key="d5">41.4914511</data>
+  <data key="d6">3</data>
+</node>
+<node id="1789201467">
+  <data key="d4">57.4558738</data>
+  <data key="d5">41.4993278</data>
+  <data key="d6">3</data>
+</node>
+<node id="1789201470">
+  <data key="d4">57.4559015</data>
+  <data key="d5">41.4945251</data>
+  <data key="d6">3</data>
+</node>
+<node id="1789201475">
+  <data key="d4">57.4559015</data>
+  <data key="d5">41.4956638</data>
+  <data key="d6">3</data>
+</node>
+<node id="1789201476">
+  <data key="d4">57.4559043</data>
+  <data key="d5">41.496612</data>
+  <data key="d6">4</data>
+</node>
+<node id="1789201480">
+  <data key="d4">57.4559178</data>
+  <data key="d5">41.5010461</data>
+  <data key="d6">1</data>
+</node>
+<node id="1789201488">
+  <data key="d4">57.4560155</data>
+  <data key="d5">41.4932928</data>
+  <data key="d6">1</data>
+</node>
+<node id="1789201608">
+  <data key="d4">57.4562942</data>
+  <data key="d5">41.5011914</data>
+  <data key="d6">3</data>
+</node>
+<node id="1789201619">
+  <data key="d4">57.4563586</data>
+  <data key="d5">41.4993885</data>
+  <data key="d6">4</data>
+</node>
+<node id="1789201656">
+  <data key="d4">57.4564554</data>
+  <data key="d5">41.4966067</data>
+  <data key="d6">3</data>
+</node>
+<node id="1789201810">
+  <data key="d4">57.4571492</data>
+  <data key="d5">41.5015128</data>
+  <data key="d6">3</data>
+</node>
+<node id="1789201824">
+  <data key="d4">57.4572488</data>
+  <data key="d5">41.4994998</data>
+  <data key="d6">3</data>
+</node>
+<node id="1789201833">
+  <data key="d4">57.4572839</data>
+  <data key="d5">41.4956346</data>
+  <data key="d6">3</data>
+</node>
+<node id="1789202187">
+  <data key="d4">57.4598244</data>
+  <data key="d5">41.5033417</data>
+  <data key="d6">1</data>
+</node>
+<node id="1789202193">
+  <data key="d4">57.4598928</data>
+  <data key="d5">41.5051562</data>
+  <data key="d6">1</data>
+</node>
+<node id="1789202463">
+  <data key="d4">57.4612684</data>
+  <data key="d5">41.4966732</data>
+  <data key="d6">3</data>
+</node>
+<node id="1789203216">
+  <data key="d4">57.4654318</data>
+  <data key="d5">41.4864081</data>
+  <data key="d6">1</data>
+</node>
+<node id="2395112114">
+  <data key="d4">57.4612199</data>
+  <data key="d5">41.5000357</data>
+  <data key="d6">1</data>
+</node>
+<node id="2947924826">
+  <data key="d4">57.4562044</data>
+  <data key="d5">41.5121853</data>
+  <data key="d6">3</data>
+</node>
+<node id="2947925038">
+  <data key="d4">57.4570337</data>
+  <data key="d5">41.5173406</data>
+  <data key="d6">3</data>
+</node>
+<node id="5591895778">
+  <data key="d4">57.4612369</data>
+  <data key="d5">41.4974598</data>
+  <data key="d6">1</data>
+</node>
+<node id="9333642581">
+  <data key="d4">57.4531787</data>
+  <data key="d5">41.5006026</data>
+  <data key="d6">3</data>
+</node>
+<node id="9333642593">
+  <data key="d4">57.4533534</data>
+  <data key="d5">41.5033285</data>
+  <data key="d6">3</data>
+</node>
+<node id="9338407011">
+  <data key="d4">57.4604468</data>
+  <data key="d5">41.5124782</data>
+  <data key="d6">4</data>
+</node>
+<node id="9338455956">
+  <data key="d4">57.4602199</data>
+  <data key="d5">41.5121994</data>
+  <data key="d6">3</data>
+</node>
+<node id="9727057401">
+  <data key="d4">57.447815</data>
+  <data key="d5">41.494875</data>
+  <data key="d6">3</data>
+</node>
+<node id="10900329612">
+  <data key="d4">57.454785</data>
+  <data key="d5">41.4945023</data>
+  <data key="d6">3</data>
+</node>
+<node id="11242142817">
+  <data key="d4">57.458343</data>
+  <data key="d5">41.5184084</data>
+  <data key="d6">1</data>
+</node>
+<edge source="456844541" target="2947924826" id="0">
+  <data key="d7">1195015393</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">40</data>
+  <data key="d10">улица Корнилова</data>
+  <data key="d11">24Н-252</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">10.94368321790649</data>
+</edge>
+<edge source="456844541" target="712598960" id="0">
+  <data key="d7">[124191976, 57082329]</data>
+  <data key="d8">residential</data>
+  <data key="d10">['Проездной переулок', 'Пушкинский переулок']</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">236.8303571812379</data>
+  <data key="d15">LINESTRING (41.5123327 57.4562627, 41.5122815 57.4563126, 41.51212 57.4564116, 41.5119168 57.4565304, 41.511296 57.456862, 41.5110329 57.4569523, 41.5107036 57.4571177, 41.510627 57.4573006, 41.5104783 57.4574696, 41.5103572 57.4575478, 41.5098077 57.4576788, 41.5097243 57.4576902, 41.5096288 57.4577033)</data>
+</edge>
+<edge source="456844541" target="1788872925" id="0">
+  <data key="d7">57082336</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">RU:urban</data>
+  <data key="d10">улица Корнилова</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">136.98171113663653</data>
+  <data key="d15">LINESTRING (41.5123327 57.4562627, 41.5124347 57.4562927, 41.5125491 57.4563167, 41.5126261 57.4563285, 41.5128371 57.4563498, 41.513019 57.4563668, 41.5131575 57.4563867, 41.5132691 57.4564093, 41.5133776 57.4564464, 41.5139162 57.4566836, 41.5142833 57.4568536)</data>
+</edge>
+<edge source="712575698" target="1789201283" id="0">
+  <data key="d7">57082344</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">улица Льва Толстого</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">40.41945603330851</data>
+  <data key="d15">LINESTRING (41.5089037 57.454524, 41.5088546 57.4545715, 41.5088284 57.4547166, 41.5088197 57.4548799)</data>
+</edge>
+<edge source="712575698" target="1253019452" id="0">
+  <data key="d7">230079341</data>
+  <data key="d8">secondary</data>
+  <data key="d9">40</data>
+  <data key="d10">улица Корнилова</data>
+  <data key="d11">24Н-252</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">332.8844973204167</data>
+  <data key="d15">LINESTRING (41.5089037 57.454524, 41.5087466 57.4543972, 41.5084689 57.4542403, 41.5069156 57.4533789, 41.5067527 57.4532839, 41.5056753 57.4526815, 41.5050698 57.4523577)</data>
+</edge>
+<edge source="712575698" target="1381498076" id="0">
+  <data key="d7">1195015393</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">40</data>
+  <data key="d10">улица Корнилова</data>
+  <data key="d11">24Н-252</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">240.3964820809589</data>
+  <data key="d15">LINESTRING (41.5089037 57.454524, 41.5095851 57.4549768, 41.5103441 57.4554298, 41.5106887 57.4556076, 41.5107922 57.4556579, 41.5117556 57.4560293)</data>
+</edge>
+<edge source="712598829" target="712598960" id="0">
+  <data key="d7">1195015391</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Льва Толстого</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">134.19991527121908</data>
+</edge>
+<edge source="712598829" target="712599125" id="0">
+  <data key="d7">57082342</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">Красноармейский переулок</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">106.11632184575825</data>
+  <data key="d15">LINESTRING (41.5092242 57.4565162, 41.5084938 57.4565907, 41.5080104 57.4566248, 41.507471 57.4566588)</data>
+</edge>
+<edge source="712598829" target="1789201283" id="0">
+  <data key="d7">57082344</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">улица Льва Толстого</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">183.7234491122296</data>
+  <data key="d15">LINESTRING (41.5092242 57.4565162, 41.5088811 57.4553202, 41.5088383 57.4551308, 41.5088177 57.4549791, 41.5088197 57.4548799)</data>
+</edge>
+<edge source="712598846" target="1789201378" id="0">
+  <data key="d7">185127008</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">улица Кирова</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">174.4621129298771</data>
+</edge>
+<edge source="712598846" target="10900329612" id="0">
+  <data key="d7">167533049</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Гагарина</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">631.3062002331521</data>
+  <data key="d15">LINESTRING (41.4847067 57.4551536, 41.4847115 57.4548902, 41.4847849 57.4547542, 41.4850405 57.4546436, 41.4853177 57.4546189, 41.4867636 57.4546605, 41.4902242 57.4547541, 41.4908977 57.4547641, 41.4918816 57.4547786, 41.4945023 57.454785)</data>
+</edge>
+<edge source="712598897" target="1253019466" id="0">
+  <data key="d7">57082334</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">Лесная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">306.12828443122856</data>
+  <data key="d15">LINESTRING (41.4950764 57.4512392, 41.4951996 57.4517072, 41.4952888 57.4521106, 41.4954798 57.4526003, 41.4956073 57.4529032, 41.495738 57.4532135, 41.4958649 57.4535391, 41.4960222 57.4539427)</data>
+</edge>
+<edge source="712598897" target="1253019402" id="0">
+  <data key="d7">[167532462, 109448047]</data>
+  <data key="d8">['residential', 'unclassified']</data>
+  <data key="d12">False</data>
+  <data key="d13">[False, True]</data>
+  <data key="d14">828.4984275890434</data>
+  <data key="d15">LINESTRING (41.4950764 57.4512392, 41.4940003 57.4514004, 41.4935362 57.4514884, 41.4928056 57.4516573, 41.4921897 57.4517989, 41.4914227 57.4520116, 41.4911769 57.4520925, 41.4911049 57.4522368, 41.4910679 57.4523616, 41.4910262 57.4528474, 41.4910042 57.4532324, 41.4909609 57.4539922, 41.49091 57.4543282, 41.490997 57.4544317, 41.4912586 57.4544806, 41.4939178 57.4544876, 41.4947468 57.4544958, 41.4955951 57.4545058, 41.4962195 57.4544736)</data>
+</edge>
+<edge source="712598930" target="1789201470" id="0">
+  <data key="d7">167532510</data>
+  <data key="d8">residential</data>
+  <data key="d10">Пионерская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">114.4885733105072</data>
+</edge>
+<edge source="712598930" target="1382941042" id="0">
+  <data key="d7">185127008</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">улица Кирова</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">59.030799271042824</data>
+</edge>
+<edge source="712598930" target="1789201378" id="0">
+  <data key="d7">185127008</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">улица Кирова</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">442.45857124399186</data>
+  <data key="d15">LINESTRING (41.4944705 57.4569307, 41.4933677 57.4566787, 41.4928514 57.456578, 41.4914585 57.4563211, 41.4901216 57.4560615, 41.4875016 57.455602)</data>
+</edge>
+<edge source="712598960" target="1253019458" id="0">
+  <data key="d7">702540189</data>
+  <data key="d8">residential</data>
+  <data key="d10">Пушкинский переулок</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">102.8551361058919</data>
+</edge>
+<edge source="712598960" target="712598829" id="0">
+  <data key="d7">1195015391</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Льва Толстого</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">134.19991527121908</data>
+</edge>
+<edge source="712598960" target="456844541" id="0">
+  <data key="d7">[124191976, 57082329]</data>
+  <data key="d8">residential</data>
+  <data key="d10">['Пушкинский переулок', 'Проездной переулок']</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">236.83035718123793</data>
+  <data key="d15">LINESTRING (41.5096288 57.4577033, 41.5097243 57.4576902, 41.5098077 57.4576788, 41.5103572 57.4575478, 41.5104783 57.4574696, 41.510627 57.4573006, 41.5107036 57.4571177, 41.5110329 57.4569523, 41.511296 57.456862, 41.5119168 57.4565304, 41.51212 57.4564116, 41.5122815 57.4563126, 41.5123327 57.4562627)</data>
+</edge>
+<edge source="712598960" target="1789202193" id="0">
+  <data key="d7">[124024873, 702540188]</data>
+  <data key="d8">residential</data>
+  <data key="d10">['улица Карла Маркса', 'улица Льва Толстого']</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">495.56243190198694</data>
+  <data key="d15">LINESTRING (41.5096288 57.4577033, 41.51021 57.4593601, 41.5097743 57.4594021, 41.5088504 57.459504, 41.5066323 57.4597151, 41.5062465 57.4597615, 41.5051562 57.4598928)</data>
+</edge>
+<edge source="712598966" target="1253019381" id="0">
+  <data key="d7">57082342</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">Красноармейский переулок</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">90.9253335532257</data>
+</edge>
+<edge source="712598966" target="712599035" id="0">
+  <data key="d7">57082342</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">Красноармейский переулок</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">86.82360336987354</data>
+</edge>
+<edge source="712598966" target="1253019396" id="0">
+  <data key="d7">109448042</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">1-я Запрудная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">168.79467931171445</data>
+  <data key="d15">LINESTRING (41.5043042 57.4568868, 41.5042961 57.4568499, 41.5038957 57.4553848)</data>
+</edge>
+<edge source="712598966" target="1253019414" id="0">
+  <data key="d7">1195015392</data>
+  <data key="d8">residential</data>
+  <data key="d10">1-я Запрудная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">150.07262618845144</data>
+  <data key="d15">LINESTRING (41.5043042 57.4568868, 41.5045533 57.4577711, 41.5046015 57.4582256)</data>
+</edge>
+<edge source="712598972" target="1789201476" id="0">
+  <data key="d7">57082334</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">Лесная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">133.17131796404203</data>
+  <data key="d15">LINESTRING (41.4964169 57.4547196, 41.4964678 57.4547824, 41.4965627 57.4549958, 41.4965921 57.4552281, 41.4966252 57.4554893, 41.496612 57.4559043)</data>
+</edge>
+<edge source="712598972" target="1253019402" id="0">
+  <data key="d7">57082334</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">Лесная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">29.794879251871066</data>
+  <data key="d15">LINESTRING (41.4964169 57.4547196, 41.4962595 57.4545213, 41.4962195 57.4544736)</data>
+</edge>
+<edge source="712598972" target="10900329612" id="0">
+  <data key="d7">167533049</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Гагарина</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">115.43350402600441</data>
+  <data key="d15">LINESTRING (41.4964169 57.4547196, 41.4960252 57.4547786, 41.4945023 57.454785)</data>
+</edge>
+<edge source="712598977" target="1253019414" id="0">
+  <data key="d7">702540189</data>
+  <data key="d8">residential</data>
+  <data key="d10">Пушкинский переулок</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">98.57873453692581</data>
+</edge>
+<edge source="712598977" target="712599035" id="0">
+  <data key="d7">109448039</data>
+  <data key="d8">residential</data>
+  <data key="d10">2-я Запрудная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">165.5450955598145</data>
+  <data key="d15">LINESTRING (41.5029998 57.4584345, 41.502913 57.4575415, 41.5028571 57.4569477)</data>
+</edge>
+<edge source="712598977" target="1789202187" id="0">
+  <data key="d7">109448039</data>
+  <data key="d8">residential</data>
+  <data key="d10">2-я Запрудная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">161.68469553535883</data>
+  <data key="d15">LINESTRING (41.5029998 57.4584345, 41.5032297 57.4587524, 41.5033568 57.4592557, 41.503452 57.4597894, 41.5033417 57.4598244)</data>
+</edge>
+<edge source="712599035" target="712598966" id="0">
+  <data key="d7">57082342</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">Красноармейский переулок</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">86.82360336987354</data>
+</edge>
+<edge source="712599035" target="712598977" id="0">
+  <data key="d7">109448039</data>
+  <data key="d8">residential</data>
+  <data key="d10">2-я Запрудная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">165.5450955598145</data>
+  <data key="d15">LINESTRING (41.5028571 57.4569477, 41.502913 57.4575415, 41.5029998 57.4584345)</data>
+</edge>
+<edge source="712599035" target="1789201810" id="0">
+  <data key="d7">167704007</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">улица Калинина</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">83.71034449725525</data>
+  <data key="d15">LINESTRING (41.5028571 57.4569477, 41.5025255 57.4569767, 41.5018618 57.4571036, 41.5015128 57.4571492)</data>
+</edge>
+<edge source="712599069" target="1789201656" id="0">
+  <data key="d7">57082334</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">Лесная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">102.10224161536189</data>
+</edge>
+<edge source="712599069" target="1789201824" id="0">
+  <data key="d7">167704007</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">улица Калинина</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">172.83696518497578</data>
+</edge>
+<edge source="712599069" target="1789201833" id="0">
+  <data key="d7">185127008</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">улица Кирова</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">61.54081176251886</data>
+  <data key="d15">LINESTRING (41.4966196 57.4573736, 41.4962339 57.4573977, 41.4959257 57.457362, 41.4956346 57.4572839)</data>
+</edge>
+<edge source="712599125" target="1253019381" id="0">
+  <data key="d7">57082342</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">Красноармейский переулок</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">100.20125372005931</data>
+</edge>
+<edge source="712599125" target="1789201294" id="0">
+  <data key="d7">109448065</data>
+  <data key="d8">residential</data>
+  <data key="d10">Ярославская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">179.37056260526109</data>
+</edge>
+<edge source="712599125" target="1253019458" id="0">
+  <data key="d7">109448065</data>
+  <data key="d8">residential</data>
+  <data key="d10">Ярославская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">136.48830205497006</data>
+</edge>
+<edge source="712599125" target="712598829" id="0">
+  <data key="d7">57082342</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">Красноармейский переулок</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">106.11632184575825</data>
+  <data key="d15">LINESTRING (41.507471 57.4566588, 41.5080104 57.4566248, 41.5084938 57.4565907, 41.5092242 57.4565162)</data>
+</edge>
+<edge source="950916861" target="2947925038" id="0">
+  <data key="d7">167561193</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Спуск горы Свободы</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">39.65493277305259</data>
+</edge>
+<edge source="950917125" target="1787821532" id="0">
+  <data key="d7">124024870</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Кирова</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">20.907894536031257</data>
+</edge>
+<edge source="950917125" target="1253019367" id="0">
+  <data key="d7">109448044</data>
+  <data key="d8">residential</data>
+  <data key="d16">2</data>
+  <data key="d10">Никольская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">108.54850067262359</data>
+  <data key="d15">LINESTRING (41.522736 57.4578085, 41.5228167 57.4579789, 41.5231839 57.4587545)</data>
+</edge>
+<edge source="950917125" target="950917260" id="0">
+  <data key="d7">109448044</data>
+  <data key="d8">residential</data>
+  <data key="d16">2</data>
+  <data key="d10">Никольская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">189.89951387738515</data>
+  <data key="d15">LINESTRING (41.522736 57.4578085, 41.5218651 57.4574227, 41.5210313 57.4571457, 41.5204365 57.4571077, 41.519992 57.4570296)</data>
+</edge>
+<edge source="950917142" target="9338407011" id="0">
+  <data key="d7">109448064</data>
+  <data key="d8">residential</data>
+  <data key="d9">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">92.82419675269901</data>
+  <data key="d15">LINESTRING (41.5130117 57.4612245, 41.5128185 57.4608417, 41.5127765 57.4607651, 41.5126669 57.4606082, 41.5124782 57.4604468)</data>
+</edge>
+<edge source="950917142" target="950917517" id="0">
+  <data key="d7">[124024856, 109388063, 124024839]</data>
+  <data key="d8">residential</data>
+  <data key="d9">20</data>
+  <data key="d10">['улица Луначарского', 'Нижний Шохонский мост', 'Советская улица']</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">658.8875402608143</data>
+  <data key="d17">yes</data>
+  <data key="d15">LINESTRING (41.5130117 57.4612245, 41.5133184 57.4611777, 41.5142184 57.4610222, 41.5144431 57.4609833, 41.5144798 57.460977, 41.5151091 57.4608715, 41.5158038 57.4607497, 41.5158517 57.4607413, 41.5163013 57.4606619, 41.5168952 57.4605659, 41.517067 57.4605413, 41.5187923 57.4602968, 41.5196419 57.4601569, 41.5199271 57.4601099, 41.5206176 57.4599811, 41.5207102 57.4599637, 41.5212402 57.4598697, 41.5216057 57.4598047, 41.521663 57.4597977, 41.5220181 57.4597386, 41.5235408 57.459487)</data>
+</edge>
+<edge source="950917142" target="1501728299" id="0">
+  <data key="d7">230082977</data>
+  <data key="d8">residential</data>
+  <data key="d10">Советская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">61.282052885142335</data>
+  <data key="d15">LINESTRING (41.5130117 57.4612245, 41.5129386 57.4612344, 41.512698 57.4612639, 41.5120161 57.4613547)</data>
+</edge>
+<edge source="950917243" target="950917260" id="0">
+  <data key="d7">81602339</data>
+  <data key="d8">residential</data>
+  <data key="d10">Вичугский проезд</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">21.84140633690495</data>
+</edge>
+<edge source="950917243" target="1253019446" id="0">
+  <data key="d7">109448057</data>
+  <data key="d8">residential</data>
+  <data key="d10">Мельничная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">163.38352825622508</data>
+  <data key="d15">LINESTRING (41.5202485 57.4568898, 41.5202587 57.4566721, 41.5205387 57.4560215, 41.5205921 57.4558207, 41.5205046 57.4554427)</data>
+</edge>
+<edge source="950917260" target="950917243" id="0">
+  <data key="d7">81602339</data>
+  <data key="d8">residential</data>
+  <data key="d10">Вичугский проезд</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">21.84140633690495</data>
+</edge>
+<edge source="950917260" target="950917125" id="0">
+  <data key="d7">109448044</data>
+  <data key="d8">residential</data>
+  <data key="d16">2</data>
+  <data key="d10">Никольская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">189.89951387738517</data>
+  <data key="d15">LINESTRING (41.519992 57.4570296, 41.5204365 57.4571077, 41.5210313 57.4571457, 41.5218651 57.4574227, 41.522736 57.4578085)</data>
+</edge>
+<edge source="950917260" target="950917639" id="0">
+  <data key="d7">[167384544, 124024877, 124024817, 335730354, 167384543]</data>
+  <data key="d8">residential</data>
+  <data key="d10">['Верхний Шохонский мост', 'улица Спуск горы Свободы']</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">86.1379267923543</data>
+  <data key="d17">yes</data>
+  <data key="d15">LINESTRING (41.519992 57.4570296, 41.5198282 57.4570298, 41.5194666 57.457068, 41.5192487 57.4570433, 41.5189799 57.4570259, 41.5187945 57.4570355, 41.5186432 57.457058, 41.5186003 57.4570885)</data>
+</edge>
+<edge source="950917517" target="1253019451" id="0">
+  <data key="d7">109388063</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Луначарского</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">93.48519038803522</data>
+</edge>
+<edge source="950917517" target="950917142" id="0">
+  <data key="d7">[124024856, 124024839, 109388063]</data>
+  <data key="d8">residential</data>
+  <data key="d10">['улица Луначарского', 'Нижний Шохонский мост', 'Советская улица']</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">658.8875402608144</data>
+  <data key="d17">yes</data>
+  <data key="d9">20</data>
+  <data key="d15">LINESTRING (41.5235408 57.459487, 41.5220181 57.4597386, 41.521663 57.4597977, 41.5216057 57.4598047, 41.5212402 57.4598697, 41.5207102 57.4599637, 41.5206176 57.4599811, 41.5199271 57.4601099, 41.5196419 57.4601569, 41.5187923 57.4602968, 41.517067 57.4605413, 41.5168952 57.4605659, 41.5163013 57.4606619, 41.5158517 57.4607413, 41.5158038 57.4607497, 41.5151091 57.4608715, 41.5144798 57.460977, 41.5144431 57.4609833, 41.5142184 57.4610222, 41.5133184 57.4611777, 41.5130117 57.4612245)</data>
+</edge>
+<edge source="950917517" target="1253019367" id="0">
+  <data key="d7">109448044</data>
+  <data key="d8">residential</data>
+  <data key="d16">2</data>
+  <data key="d10">Никольская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">84.20643201025541</data>
+  <data key="d15">LINESTRING (41.5235408 57.459487, 41.5235283 57.4594546, 41.5231839 57.4587545)</data>
+</edge>
+<edge source="950917639" target="2947925038" id="0">
+  <data key="d7">167561193</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Спуск горы Свободы</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">75.59537196517704</data>
+</edge>
+<edge source="950917639" target="9338407011" id="0">
+  <data key="d7">109448050</data>
+  <data key="d8">residential</data>
+  <data key="d9">RU:urban</data>
+  <data key="d10">Юрьевская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">743.081646631493</data>
+  <data key="d15">LINESTRING (41.5186003 57.4570885, 41.5185059 57.4572368, 41.5185665 57.4574816, 41.5189556 57.457855, 41.5190785 57.4579729, 41.5195319 57.4584862, 41.5199157 57.4589145, 41.5198643 57.4591704, 41.5197922 57.4594501, 41.519587 57.4595866, 41.5191841 57.4596825, 41.518834 57.4597939, 41.5186228 57.4598295, 41.5178954 57.4599394, 41.5175827 57.4599672, 41.517375 57.4599612, 41.5171024 57.4599487, 41.516662 57.4599371, 41.5162129 57.4599851, 41.515799 57.4600377, 41.5155255 57.4600621, 41.5145856 57.4601692, 41.5135965 57.4603029, 41.5132356 57.4603623, 41.5126964 57.4604171, 41.5124782 57.4604468)</data>
+</edge>
+<edge source="950917639" target="950917260" id="0">
+  <data key="d7">[167384544, 124024877, 124024817, 335730354, 167384543]</data>
+  <data key="d8">residential</data>
+  <data key="d10">['Верхний Шохонский мост', 'улица Спуск горы Свободы']</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">86.13792679235429</data>
+  <data key="d17">yes</data>
+  <data key="d15">LINESTRING (41.5186003 57.4570885, 41.5186432 57.457058, 41.5187945 57.4570355, 41.5189799 57.4570259, 41.5192487 57.4570433, 41.5194666 57.457068, 41.5198282 57.4570298, 41.519992 57.4570296)</data>
+</edge>
+<edge source="1253019367" target="1253019407" id="0">
+  <data key="d7">109448056</data>
+  <data key="d8">residential</data>
+  <data key="d10">Варваринская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">99.7796925178621</data>
+</edge>
+<edge source="1253019367" target="950917517" id="0">
+  <data key="d7">109448044</data>
+  <data key="d8">residential</data>
+  <data key="d16">2</data>
+  <data key="d10">Никольская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">84.20643201025541</data>
+  <data key="d15">LINESTRING (41.5231839 57.4587545, 41.5235283 57.4594546, 41.5235408 57.459487)</data>
+</edge>
+<edge source="1253019367" target="950917125" id="0">
+  <data key="d7">109448044</data>
+  <data key="d8">residential</data>
+  <data key="d16">2</data>
+  <data key="d10">Никольская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">108.54850067262359</data>
+  <data key="d15">LINESTRING (41.5231839 57.4587545, 41.5228167 57.4579789, 41.522736 57.4578085)</data>
+</edge>
+<edge source="1253019376" target="1253019381" id="0">
+  <data key="d7">109448048</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Свободы</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">138.09182337634093</data>
+</edge>
+<edge source="1253019376" target="1253019414" id="0">
+  <data key="d7">702540189</data>
+  <data key="d8">residential</data>
+  <data key="d10">Пушкинский переулок</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">99.24230653493447</data>
+</edge>
+<edge source="1253019376" target="1253019458" id="0">
+  <data key="d7">702540189</data>
+  <data key="d8">residential</data>
+  <data key="d10">Пушкинский переулок</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">104.3596664216259</data>
+</edge>
+<edge source="1253019381" target="712599125" id="0">
+  <data key="d7">57082342</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">Красноармейский переулок</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">100.20125372005931</data>
+</edge>
+<edge source="1253019381" target="712598966" id="0">
+  <data key="d7">57082342</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">Красноармейский переулок</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">90.9253335532257</data>
+</edge>
+<edge source="1253019381" target="1253019376" id="0">
+  <data key="d7">109448048</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Свободы</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">138.09182337634093</data>
+</edge>
+<edge source="1253019381" target="1253019398" id="0">
+  <data key="d7">109448048</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Свободы</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">176.40333351051834</data>
+  <data key="d15">LINESTRING (41.5058132 57.4567882, 41.5058009 57.4567501, 41.5053136 57.4552247)</data>
+</edge>
+<edge source="1253019396" target="1253019398" id="0">
+  <data key="d7">167532517</data>
+  <data key="d8">unclassified</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">86.66440112936178</data>
+</edge>
+<edge source="1253019396" target="712598966" id="0">
+  <data key="d7">109448042</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">1-я Запрудная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">168.79467931171445</data>
+  <data key="d15">LINESTRING (41.5038957 57.4553848, 41.5042961 57.4568499, 41.5043042 57.4568868)</data>
+</edge>
+<edge source="1253019396" target="9333642593" id="0">
+  <data key="d7">109448042</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">1-я Запрудная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">228.5355351495301</data>
+  <data key="d15">LINESTRING (41.5038957 57.4553848, 41.503676 57.4547605, 41.5035513 57.454372, 41.5033285 57.4533534)</data>
+</edge>
+<edge source="1253019398" target="1789201294" id="0">
+  <data key="d7">167532517</data>
+  <data key="d8">unclassified</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">105.01625563375404</data>
+</edge>
+<edge source="1253019398" target="1253019396" id="0">
+  <data key="d7">167532517</data>
+  <data key="d8">unclassified</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">86.66440112936178</data>
+</edge>
+<edge source="1253019398" target="1253019381" id="0">
+  <data key="d7">109448048</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Свободы</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">176.40333351051834</data>
+  <data key="d15">LINESTRING (41.5053136 57.4552247, 41.5058009 57.4567501, 41.5058132 57.4567882)</data>
+</edge>
+<edge source="1253019398" target="1253019475" id="0">
+  <data key="d7">109448048</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Свободы</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">214.66634069911888</data>
+  <data key="d15">LINESTRING (41.5053136 57.4552247, 41.5050453 57.4543207, 41.5047526 57.4533179)</data>
+</edge>
+<edge source="1253019399" target="1253019409" id="0">
+  <data key="d7">[109448059, 124197149, 124197150]</data>
+  <data key="d8">residential</data>
+  <data key="d10">['Хреновский мост', 'Советская улица']</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">179.69513908801875</data>
+  <data key="d17">yes</data>
+  <data key="d15">LINESTRING (41.5041206 57.4626343, 41.5039901 57.4626566, 41.5038825 57.4626763, 41.5012681 57.463142)</data>
+</edge>
+<edge source="1253019399" target="1501728299" id="0">
+  <data key="d7">[136883912, 335730319]</data>
+  <data key="d8">residential</data>
+  <data key="d10">Советская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">494.0285891057037</data>
+  <data key="d15">LINESTRING (41.5041206 57.4626343, 41.5050252 57.4625078, 41.5059321 57.4623165, 41.5079694 57.461902, 41.5086061 57.4618064, 41.5092547 57.4617199, 41.5097845 57.4616496, 41.5105223 57.4615608, 41.5109334 57.4615093, 41.5120161 57.4613547)</data>
+</edge>
+<edge source="1253019399" target="1253019463" id="0">
+  <data key="d7">[231104364, 167532484, 867252028, 867252029]</data>
+  <data key="d8">unclassified</data>
+  <data key="d10">улица Островского</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">86.20432031304124</data>
+  <data key="d17">yes</data>
+  <data key="d15">LINESTRING (41.5041206 57.4626343, 41.5039852 57.4625699, 41.5037063 57.4624887, 41.5030993 57.4624462, 41.5030074 57.4624337, 41.5028889 57.4624037, 41.5027998 57.4623732)</data>
+</edge>
+<edge source="1253019402" target="1253019466" id="0">
+  <data key="d7">57082334</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">Лесная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">60.20173821632286</data>
+</edge>
+<edge source="1253019402" target="712598972" id="0">
+  <data key="d7">57082334</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">Лесная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">29.794879251871066</data>
+  <data key="d15">LINESTRING (41.4962195 57.4544736, 41.4962595 57.4545213, 41.4964169 57.4547196)</data>
+</edge>
+<edge source="1253019402" target="712598897" id="0">
+  <data key="d7">[167532462, 109448047]</data>
+  <data key="d8">['residential', 'unclassified']</data>
+  <data key="d12">False</data>
+  <data key="d13">[False, True]</data>
+  <data key="d14">828.4984275890436</data>
+  <data key="d15">LINESTRING (41.4962195 57.4544736, 41.4955951 57.4545058, 41.4947468 57.4544958, 41.4939178 57.4544876, 41.4912586 57.4544806, 41.490997 57.4544317, 41.49091 57.4543282, 41.4909609 57.4539922, 41.4910042 57.4532324, 41.4910262 57.4528474, 41.4910679 57.4523616, 41.4911049 57.4522368, 41.4911769 57.4520925, 41.4914227 57.4520116, 41.4921897 57.4517989, 41.4928056 57.4516573, 41.4935362 57.4514884, 41.4940003 57.4514004, 41.4950764 57.4512392)</data>
+</edge>
+<edge source="1253019407" target="1253019367" id="0">
+  <data key="d7">109448056</data>
+  <data key="d8">residential</data>
+  <data key="d10">Варваринская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">99.7796925178621</data>
+</edge>
+<edge source="1253019407" target="1253019451" id="0">
+  <data key="d7">124024867</data>
+  <data key="d8">residential</data>
+  <data key="d9">RU:urban</data>
+  <data key="d10">переулок Кирова</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">81.48651994205129</data>
+</edge>
+<edge source="1253019407" target="1382941049" id="0">
+  <data key="d7">[109448056, 167383809]</data>
+  <data key="d8">['residential', 'unclassified']</data>
+  <data key="d10">Варваринская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">326.94367453640746</data>
+  <data key="d15">LINESTRING (41.5248339 57.4586223, 41.5257855 57.4585617, 41.5271089 57.4584269, 41.5275121 57.4583861, 41.5277064 57.4583547, 41.5282064 57.4582908, 41.5283202 57.4582739, 41.5287395 57.4582479, 41.5287658 57.4583132, 41.5289859 57.4590403)</data>
+</edge>
+<edge source="1253019407" target="1381498158" id="0">
+  <data key="d7">167383885</data>
+  <data key="d8">residential</data>
+  <data key="d10">переулок Кирова</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">41.98600711376574</data>
+  <data key="d15">LINESTRING (41.5248339 57.4586223, 41.5247381 57.4584957, 41.5247809 57.4582559)</data>
+</edge>
+<edge source="1253019409" target="1789203216" id="0">
+  <data key="d7">109448060</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Ленина</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">927.6661395053844</data>
+  <data key="d15">LINESTRING (41.5012681 57.463142, 41.5003 57.4633473, 41.4998838 57.4634356, 41.4993675 57.4634225, 41.499091 57.4634159, 41.4988537 57.4634379, 41.4985358 57.4634865, 41.498047 57.4635612, 41.498011 57.4635667, 41.4951401 57.4640056, 41.4938619 57.4642332, 41.4927517 57.4644252, 41.4924516 57.4644741, 41.4914776 57.464633, 41.4883568 57.4651629, 41.4882657 57.4651783, 41.4872919 57.4653062, 41.4864081 57.4654318)</data>
+</edge>
+<edge source="1253019409" target="1253019399" id="0">
+  <data key="d7">[109448059, 124197149, 124197150]</data>
+  <data key="d8">residential</data>
+  <data key="d10">['Хреновский мост', 'Советская улица']</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">179.69513908801875</data>
+  <data key="d17">yes</data>
+  <data key="d15">LINESTRING (41.5012681 57.463142, 41.5038825 57.4626763, 41.5039901 57.4626566, 41.5041206 57.4626343)</data>
+</edge>
+<edge source="1253019409" target="1253019463" id="0">
+  <data key="d7">446411039</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Ленина</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">149.99053547335885</data>
+  <data key="d15">LINESTRING (41.5012681 57.463142, 41.5012204 57.4631022, 41.5010624 57.4629704, 41.5011545 57.462832, 41.5013825 57.4627512, 41.5027998 57.4623732)</data>
+</edge>
+<edge source="1253019414" target="712598977" id="0">
+  <data key="d7">702540189</data>
+  <data key="d8">residential</data>
+  <data key="d10">Пушкинский переулок</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">98.57873453692581</data>
+</edge>
+<edge source="1253019414" target="1253019376" id="0">
+  <data key="d7">702540189</data>
+  <data key="d8">residential</data>
+  <data key="d10">Пушкинский переулок</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">99.24230653493447</data>
+</edge>
+<edge source="1253019414" target="712598966" id="0">
+  <data key="d7">1195015392</data>
+  <data key="d8">residential</data>
+  <data key="d10">1-я Запрудная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">150.07262618845144</data>
+  <data key="d15">LINESTRING (41.5046015 57.4582256, 41.5045533 57.4577711, 41.5043042 57.4568868)</data>
+</edge>
+<edge source="1253019427" target="9333642593" id="0">
+  <data key="d7">109448042</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">1-я Запрудная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">49.51229839393743</data>
+</edge>
+<edge source="1253019427" target="9333642581" id="0">
+  <data key="d7">109448046</data>
+  <data key="d8">unclassified</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">174.73633333846462</data>
+  <data key="d15">LINESTRING (41.5034815 57.4529158, 41.5031954 57.4529427, 41.5027661 57.4529884, 41.5024664 57.4530213, 41.5009236 57.4531594, 41.5006026 57.4531787)</data>
+</edge>
+<edge source="1253019427" target="1253019452" id="0">
+  <data key="d7">109448058</data>
+  <data key="d8">tertiary</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">113.48688144255887</data>
+  <data key="d15">LINESTRING (41.5034815 57.4529158, 41.5044605 57.452572, 41.5050698 57.4523577)</data>
+</edge>
+<edge source="1253019446" target="950917243" id="0">
+  <data key="d7">109448057</data>
+  <data key="d8">residential</data>
+  <data key="d10">Мельничная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">163.38352825622508</data>
+  <data key="d15">LINESTRING (41.5205046 57.4554427, 41.5205921 57.4558207, 41.5205387 57.4560215, 41.5202587 57.4566721, 41.5202485 57.4568898)</data>
+</edge>
+<edge source="1253019451" target="950917517" id="0">
+  <data key="d7">109388063</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Луначарского</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">93.48519038803522</data>
+</edge>
+<edge source="1253019451" target="1382941049" id="0">
+  <data key="d7">109388063</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Луначарского</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">235.98992554960105</data>
+</edge>
+<edge source="1253019451" target="1253019407" id="0">
+  <data key="d7">124024867</data>
+  <data key="d8">residential</data>
+  <data key="d9">RU:urban</data>
+  <data key="d10">переулок Кирова</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">81.48651994205129</data>
+</edge>
+<edge source="1253019452" target="1253019427" id="0">
+  <data key="d7">109448058</data>
+  <data key="d8">tertiary</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">113.48688144255887</data>
+  <data key="d15">LINESTRING (41.5050698 57.4523577, 41.5044605 57.452572, 41.5034815 57.4529158)</data>
+</edge>
+<edge source="1253019452" target="712575698" id="0">
+  <data key="d7">230079341</data>
+  <data key="d8">secondary</data>
+  <data key="d9">40</data>
+  <data key="d10">улица Корнилова</data>
+  <data key="d11">24Н-252</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">332.88449732041664</data>
+  <data key="d15">LINESTRING (41.5050698 57.4523577, 41.5056753 57.4526815, 41.5067527 57.4532839, 41.5069156 57.4533789, 41.5084689 57.4542403, 41.5087466 57.4543972, 41.5089037 57.454524)</data>
+</edge>
+<edge source="1253019452" target="9727057401" id="0">
+  <data key="d7">[109448051, 230079341]</data>
+  <data key="d8">secondary</data>
+  <data key="d9">['RU:urban', '40']</data>
+  <data key="d10">улица Корнилова</data>
+  <data key="d11">24Н-252</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">793.3252947983314</data>
+  <data key="d15">LINESTRING (41.5050698 57.4523577, 41.5040291 57.4518017, 41.5033652 57.4514675, 41.5030109 57.4512524, 41.5025833 57.451076, 41.50251 57.4510458, 41.5006847 57.4502929, 41.4980813 57.4492488, 41.4961601 57.4484409, 41.4952431 57.4480059, 41.494875 57.447815)</data>
+</edge>
+<edge source="1253019458" target="712599125" id="0">
+  <data key="d7">109448065</data>
+  <data key="d8">residential</data>
+  <data key="d10">Ярославская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">136.48830205497006</data>
+</edge>
+<edge source="1253019458" target="1253019376" id="0">
+  <data key="d7">702540189</data>
+  <data key="d8">residential</data>
+  <data key="d10">Пушкинский переулок</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">104.3596664216259</data>
+</edge>
+<edge source="1253019458" target="712598960" id="0">
+  <data key="d7">702540189</data>
+  <data key="d8">residential</data>
+  <data key="d10">Пушкинский переулок</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">102.8551361058919</data>
+</edge>
+<edge source="1253019463" target="1253019399" id="0">
+  <data key="d7">[231104364, 167532484, 867252029, 867252028]</data>
+  <data key="d8">unclassified</data>
+  <data key="d10">улица Островского</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">86.20432031304122</data>
+  <data key="d17">yes</data>
+  <data key="d15">LINESTRING (41.5027998 57.4623732, 41.5028889 57.4624037, 41.5030074 57.4624337, 41.5030993 57.4624462, 41.5037063 57.4624887, 41.5039852 57.4625699, 41.5041206 57.4626343)</data>
+</edge>
+<edge source="1253019463" target="1381498419" id="0">
+  <data key="d7">167532484</data>
+  <data key="d8">unclassified</data>
+  <data key="d10">улица Островского</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">117.192449048516</data>
+  <data key="d15">LINESTRING (41.5027998 57.4623732, 41.5026158 57.4622816, 41.5024941 57.4622196, 41.5023041 57.4621401, 41.5020467 57.462071, 41.5017434 57.4620016, 41.5012987 57.4619296, 41.5010852 57.461904)</data>
+</edge>
+<edge source="1253019463" target="1501753139" id="0">
+  <data key="d7">[124024875, 124024876, 446411039]</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Ленина</data>
+  <data key="d12">False</data>
+  <data key="d13">[False, True]</data>
+  <data key="d14">604.573955404512</data>
+  <data key="d9">RU:urban</data>
+  <data key="d15">LINESTRING (41.5027998 57.4623732, 41.503557 57.462088, 41.5047971 57.4616891, 41.5052564 57.4615464, 41.5063554 57.4612669, 41.507332 57.4610583, 41.5074819 57.4610032, 41.507693 57.4609495, 41.5078854 57.460921, 41.508405 57.4608674, 41.509103 57.4608267, 41.5094178 57.4608063, 41.5106474 57.460713, 41.5113985 57.4605933, 41.5121298 57.460494)</data>
+</edge>
+<edge source="1253019463" target="1253019409" id="0">
+  <data key="d7">446411039</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Ленина</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">149.99053547335885</data>
+  <data key="d15">LINESTRING (41.5027998 57.4623732, 41.5013825 57.4627512, 41.5011545 57.462832, 41.5010624 57.4629704, 41.5012204 57.4631022, 41.5012681 57.463142)</data>
+</edge>
+<edge source="1253019466" target="1253019402" id="0">
+  <data key="d7">57082334</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">Лесная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">60.20173821632286</data>
+</edge>
+<edge source="1253019466" target="712598897" id="0">
+  <data key="d7">57082334</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">Лесная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">306.1282844312285</data>
+  <data key="d15">LINESTRING (41.4960222 57.4539427, 41.4958649 57.4535391, 41.495738 57.4532135, 41.4956073 57.4529032, 41.4954798 57.4526003, 41.4952888 57.4521106, 41.4951996 57.4517072, 41.4950764 57.4512392)</data>
+</edge>
+<edge source="1253019466" target="9333642581" id="0">
+  <data key="d7">109448046</data>
+  <data key="d8">unclassified</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">355.66753606714144</data>
+  <data key="d15">LINESTRING (41.4960222 57.4539427, 41.4971501 57.45393, 41.4985845 57.4539138, 41.4993243 57.4539054, 41.499589 57.4538992, 41.4995405 57.4535298, 41.4995025 57.4532145, 41.5006026 57.4531787)</data>
+</edge>
+<edge source="1253019475" target="9333642593" id="0">
+  <data key="d7">109448049</data>
+  <data key="d8">unclassified</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">85.2831096835318</data>
+</edge>
+<edge source="1253019475" target="1253019398" id="0">
+  <data key="d7">109448048</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Свободы</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">214.66634069911888</data>
+  <data key="d15">LINESTRING (41.5047526 57.4533179, 41.5050453 57.4543207, 41.5053136 57.4552247)</data>
+</edge>
+<edge source="1253019475" target="1789201294" id="0">
+  <data key="d7">[109448049, 109448065]</data>
+  <data key="d8">['residential', 'unclassified']</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">281.48251055792036</data>
+  <data key="d10">Ярославская улица</data>
+  <data key="d15">LINESTRING (41.5047526 57.4533179, 41.5050174 57.45326, 41.5052333 57.4531694, 41.5054664 57.4533295, 41.50573 57.4534754, 41.5067186 57.4540227, 41.5068469 57.4541787, 41.507043 57.4550622)</data>
+</edge>
+<edge source="1381498072" target="1788872925" id="0">
+  <data key="d7">109448054</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Горная Слобода</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">334.35117090120644</data>
+  <data key="d15">LINESTRING (41.5122066 57.4559154, 41.5122955 57.4558925, 41.5127213 57.4558005, 41.5131248 57.4557313, 41.5133469 57.4556919, 41.5135682 57.4556891, 41.5139415 57.4556785, 41.5142645 57.4556803, 41.5145861 57.455698, 41.5148839 57.4557328, 41.5153541 57.455812, 41.5152852 57.4559714, 41.5152761 57.4560196, 41.5152399 57.4562338, 41.515158 57.4563382, 41.515037 57.456421, 41.5148607 57.4564967, 41.5146339 57.4565747, 41.5144605 57.456659, 41.5143713 57.4567247, 41.5143251 57.4567827, 41.5143013 57.456823, 41.5142833 57.4568536)</data>
+</edge>
+<edge source="1381498072" target="1381498076" id="0">
+  <data key="d7">109448054</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Горная Слобода</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">29.802549232873613</data>
+  <data key="d15">LINESTRING (41.5122066 57.4559154, 41.5118257 57.4560116, 41.5117556 57.4560293)</data>
+</edge>
+<edge source="1381498072" target="2947924826" id="0">
+  <data key="d7">291334396</data>
+  <data key="d8">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">32.920200891250566</data>
+  <data key="d15">LINESTRING (41.5122066 57.4559154, 41.5122327 57.4560252, 41.5122459 57.4561031, 41.5122294 57.4561509, 41.5122136 57.4561701, 41.5121853 57.4562044)</data>
+</edge>
+<edge source="1381498076" target="2947924826" id="0">
+  <data key="d7">1195015393</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">40</data>
+  <data key="d10">улица Корнилова</data>
+  <data key="d11">24Н-252</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">32.24517659429493</data>
+</edge>
+<edge source="1381498076" target="1381498072" id="0">
+  <data key="d7">109448054</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Горная Слобода</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">29.802549232873613</data>
+  <data key="d15">LINESTRING (41.5117556 57.4560293, 41.5118257 57.4560116, 41.5122066 57.4559154)</data>
+</edge>
+<edge source="1381498076" target="712575698" id="0">
+  <data key="d7">1195015393</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">40</data>
+  <data key="d10">улица Корнилова</data>
+  <data key="d11">24Н-252</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">240.3964820809589</data>
+  <data key="d15">LINESTRING (41.5117556 57.4560293, 41.5107922 57.4556579, 41.5106887 57.4556076, 41.5103441 57.4554298, 41.5095851 57.4549768, 41.5089037 57.454524)</data>
+</edge>
+<edge source="1381498158" target="1787821745" id="0">
+  <data key="d7">167383825</data>
+  <data key="d8">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">19.6381795269676</data>
+</edge>
+<edge source="1381498158" target="1787821532" id="0">
+  <data key="d7">[167383885, 124024870]</data>
+  <data key="d8">residential</data>
+  <data key="d10">['улица Кирова', 'переулок Кирова']</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">152.06727301079545</data>
+  <data key="d15">LINESTRING (41.5247809 57.4582559, 41.5246677 57.4580733, 41.5244923 57.4578966, 41.5243504 57.4577781, 41.5241115 57.4576657, 41.5238577 57.4576014, 41.5235479 57.4575914, 41.5232418 57.4576135, 41.5229147 57.4576469)</data>
+</edge>
+<edge source="1381498158" target="1253019407" id="0">
+  <data key="d7">167383885</data>
+  <data key="d8">residential</data>
+  <data key="d10">переулок Кирова</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">41.98600711376574</data>
+  <data key="d15">LINESTRING (41.5247809 57.4582559, 41.5247381 57.4584957, 41.5248339 57.4586223)</data>
+</edge>
+<edge source="1381498419" target="1253019463" id="0">
+  <data key="d7">167532484</data>
+  <data key="d8">unclassified</data>
+  <data key="d10">улица Островского</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">117.19244904851598</data>
+  <data key="d15">LINESTRING (41.5010852 57.461904, 41.5012987 57.4619296, 41.5017434 57.4620016, 41.5020467 57.462071, 41.5023041 57.4621401, 41.5024941 57.4622196, 41.5026158 57.4622816, 41.5027998 57.4623732)</data>
+</edge>
+<edge source="1381498419" target="1789202463" id="0">
+  <data key="d7">167532484</data>
+  <data key="d8">unclassified</data>
+  <data key="d10">улица Островского</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">391.1683486860825</data>
+  <data key="d15">LINESTRING (41.5010852 57.461904, 41.5003481 57.4618893, 41.5001319 57.461917, 41.4999019 57.4619668, 41.4998397 57.4619867, 41.4995896 57.4620665, 41.4992377 57.4621739, 41.4991454 57.462202, 41.4983641 57.4623961, 41.4975085 57.4625061, 41.4973664 57.4625157, 41.497214 57.4624949, 41.4970494 57.4624217, 41.496903 57.4622764, 41.4968911 57.4621825, 41.4969131 57.4619687, 41.4968086 57.4616262, 41.4966732 57.4612684)</data>
+</edge>
+<edge source="1381498419" target="2395112114" id="0">
+  <data key="d7">231104363</data>
+  <data key="d8">unclassified</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">102.58635160463581</data>
+  <data key="d15">LINESTRING (41.5010852 57.461904, 41.5006439 57.4617544, 41.5005267 57.46171, 41.5004379 57.4616587, 41.5003433 57.4616019, 41.5002602 57.4615313, 41.5001714 57.461441, 41.5001378 57.4613836, 41.5000357 57.4612199)</data>
+</edge>
+<edge source="1382941042" target="712598930" id="0">
+  <data key="d7">185127008</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">улица Кирова</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">59.030799271042824</data>
+</edge>
+<edge source="1382941042" target="1789201833" id="0">
+  <data key="d7">185127008</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">улица Кирова</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">20.949093014409694</data>
+</edge>
+<edge source="1382941042" target="1382941048" id="0">
+  <data key="d7">167789494</data>
+  <data key="d8">unclassified</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">173.60113208111147</data>
+  <data key="d15">LINESTRING (41.4953212 57.4571998, 41.4952018 57.4573239, 41.4951312 57.457588, 41.4951786 57.4579676, 41.4954231 57.4585614, 41.4954394 57.4587272)</data>
+</edge>
+<edge source="1382941048" target="1382941042" id="0">
+  <data key="d7">167789494</data>
+  <data key="d8">unclassified</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">173.60113208111147</data>
+  <data key="d15">LINESTRING (41.4954394 57.4587272, 41.4954231 57.4585614, 41.4951786 57.4579676, 41.4951312 57.457588, 41.4952018 57.4573239, 41.4953212 57.4571998)</data>
+</edge>
+<edge source="1382941048" target="1789202463" id="0">
+  <data key="d7">167789494</data>
+  <data key="d8">unclassified</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">292.13099819016094</data>
+  <data key="d15">LINESTRING (41.4954394 57.4587272, 41.4956856 57.4591874, 41.4957153 57.4592428, 41.4959173 57.4597224, 41.4959546 57.4598108, 41.4960643 57.4600714, 41.4964904 57.4608869, 41.4966732 57.4612684)</data>
+</edge>
+<edge source="1382941049" target="1253019451" id="0">
+  <data key="d7">109388063</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Луначарского</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">235.98992554960105</data>
+</edge>
+<edge source="1382941049" target="1787821624" id="0">
+  <data key="d7">[167384538, 109388063]</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Луначарского</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">381.5176280268578</data>
+  <data key="d15">LINESTRING (41.5289859 57.4590403, 41.5299945 57.4589634, 41.5301132 57.4589131, 41.5302869 57.4588393, 41.5306452 57.4587329, 41.5314188 57.4585489, 41.5316977 57.4584826, 41.5322718 57.4583678, 41.533137 57.4581948, 41.5335119 57.4581198, 41.5336459 57.4580933, 41.5340712 57.458009, 41.5343876 57.4579463, 41.5349118 57.4578425)</data>
+</edge>
+<edge source="1382941049" target="1253019407" id="0">
+  <data key="d7">[109448056, 167383809]</data>
+  <data key="d8">['residential', 'unclassified']</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">326.94367453640746</data>
+  <data key="d10">Варваринская улица</data>
+  <data key="d15">LINESTRING (41.5289859 57.4590403, 41.5287658 57.4583132, 41.5287395 57.4582479, 41.5283202 57.4582739, 41.5282064 57.4582908, 41.5277064 57.4583547, 41.5275121 57.4583861, 41.5271089 57.4584269, 41.5257855 57.4585617, 41.5248339 57.4586223)</data>
+</edge>
+<edge source="1501728299" target="950917142" id="0">
+  <data key="d7">230082977</data>
+  <data key="d8">residential</data>
+  <data key="d10">Советская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">61.282052885142335</data>
+  <data key="d15">LINESTRING (41.5120161 57.4613547, 41.512698 57.4612639, 41.5129386 57.4612344, 41.5130117 57.4612245)</data>
+</edge>
+<edge source="1501728299" target="1253019399" id="0">
+  <data key="d7">[136883912, 335730319]</data>
+  <data key="d8">residential</data>
+  <data key="d10">Советская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">494.0285891057037</data>
+  <data key="d15">LINESTRING (41.5120161 57.4613547, 41.5109334 57.4615093, 41.5105223 57.4615608, 41.5097845 57.4616496, 41.5092547 57.4617199, 41.5086061 57.4618064, 41.5079694 57.461902, 41.5059321 57.4623165, 41.5050252 57.4625078, 41.5041206 57.4626343)</data>
+</edge>
+<edge source="1501728299" target="1501753139" id="0">
+  <data key="d7">335730334</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">98.97326126426242</data>
+  <data key="d15">LINESTRING (41.5120161 57.4613547, 41.5119259 57.4610838, 41.5119031 57.4609822, 41.5119052 57.4608889, 41.5119374 57.4607259, 41.5119749 57.4606509, 41.5121298 57.460494)</data>
+</edge>
+<edge source="1501753139" target="1253019463" id="0">
+  <data key="d7">[124024875, 124024876, 446411039]</data>
+  <data key="d8">residential</data>
+  <data key="d9">RU:urban</data>
+  <data key="d10">улица Ленина</data>
+  <data key="d12">False</data>
+  <data key="d13">[False, True]</data>
+  <data key="d14">604.5739554045119</data>
+  <data key="d15">LINESTRING (41.5121298 57.460494, 41.5113985 57.4605933, 41.5106474 57.460713, 41.5094178 57.4608063, 41.509103 57.4608267, 41.508405 57.4608674, 41.5078854 57.460921, 41.507693 57.4609495, 41.5074819 57.4610032, 41.507332 57.4610583, 41.5063554 57.4612669, 41.5052564 57.4615464, 41.5047971 57.4616891, 41.503557 57.462088, 41.5027998 57.4623732)</data>
+</edge>
+<edge source="1501753139" target="1501728299" id="0">
+  <data key="d7">335730334</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">98.97326126426242</data>
+  <data key="d15">LINESTRING (41.5121298 57.460494, 41.5119749 57.4606509, 41.5119374 57.4607259, 41.5119052 57.4608889, 41.5119031 57.4609822, 41.5119259 57.4610838, 41.5120161 57.4613547)</data>
+</edge>
+<edge source="1501753139" target="9338407011" id="0">
+  <data key="d7">335730346</data>
+  <data key="d8">residential</data>
+  <data key="d9">RU:urban</data>
+  <data key="d10">улица Ленина</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">21.48851841576266</data>
+  <data key="d15">LINESTRING (41.5121298 57.460494, 41.5122842 57.4604731, 41.5124782 57.4604468)</data>
+</edge>
+<edge source="1501753139" target="9338455956" id="0">
+  <data key="d7">1012203230</data>
+  <data key="d8">tertiary</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">31.253545177081193</data>
+  <data key="d15">LINESTRING (41.5121298 57.460494, 41.5121702 57.4604419, 41.5122131 57.460331, 41.5121994 57.4602199)</data>
+</edge>
+<edge source="1787819553" target="9727057401" id="0">
+  <data key="d7">[167383882, 1014060974, 1014060975]</data>
+  <data key="d8">unclassified</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">341.4991262260639</data>
+  <data key="d17">yes</data>
+  <data key="d15">LINESTRING (41.4970047 57.445723, 41.4952571 57.4459658, 41.4950856 57.4459815, 41.4948062 57.4460666, 41.494882 57.4462398, 41.495255 57.4469462, 41.4952916 57.4472587, 41.4952362 57.4474142, 41.4951252 57.4476082, 41.4950073 57.4477119, 41.494875 57.447815)</data>
+</edge>
+<edge source="1787821178" target="1787821532" id="0">
+  <data key="d7">167704004</data>
+  <data key="d8">unclassified</data>
+  <data key="d10">переулок Кропоткина</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">80.7031104046736</data>
+  <data key="d15">LINESTRING (41.5226736 57.4569714, 41.5229188 57.4571334, 41.5229499 57.4571787, 41.5229147 57.4576469)</data>
+</edge>
+<edge source="1787821532" target="950917125" id="0">
+  <data key="d7">124024870</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Кирова</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">20.907894536031257</data>
+</edge>
+<edge source="1787821532" target="1381498158" id="0">
+  <data key="d7">[167383885, 124024870]</data>
+  <data key="d8">residential</data>
+  <data key="d10">['улица Кирова', 'переулок Кирова']</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">152.06727301079547</data>
+  <data key="d15">LINESTRING (41.5229147 57.4576469, 41.5232418 57.4576135, 41.5235479 57.4575914, 41.5238577 57.4576014, 41.5241115 57.4576657, 41.5243504 57.4577781, 41.5244923 57.4578966, 41.5246677 57.4580733, 41.5247809 57.4582559)</data>
+</edge>
+<edge source="1787821532" target="1787821178" id="0">
+  <data key="d7">167704004</data>
+  <data key="d8">unclassified</data>
+  <data key="d10">переулок Кропоткина</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">80.70311040467361</data>
+  <data key="d15">LINESTRING (41.5229147 57.4576469, 41.5229499 57.4571787, 41.5229188 57.4571334, 41.5226736 57.4569714)</data>
+</edge>
+<edge source="1787821624" target="1382941049" id="0">
+  <data key="d7">[167384538, 109388063]</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Луначарского</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">381.5176280268578</data>
+  <data key="d15">LINESTRING (41.5349118 57.4578425, 41.5343876 57.4579463, 41.5340712 57.458009, 41.5336459 57.4580933, 41.5335119 57.4581198, 41.533137 57.4581948, 41.5322718 57.4583678, 41.5316977 57.4584826, 41.5314188 57.4585489, 41.5306452 57.4587329, 41.5302869 57.4588393, 41.5301132 57.4589131, 41.5299945 57.4589634, 41.5289859 57.4590403)</data>
+</edge>
+<edge source="1787821745" target="1381498158" id="0">
+  <data key="d7">167383825</data>
+  <data key="d8">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">19.6381795269676</data>
+</edge>
+<edge source="1788872925" target="456844541" id="0">
+  <data key="d7">57082336</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">RU:urban</data>
+  <data key="d10">улица Корнилова</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">136.98171113663656</data>
+  <data key="d15">LINESTRING (41.5142833 57.4568536, 41.5139162 57.4566836, 41.5133776 57.4564464, 41.5132691 57.4564093, 41.5131575 57.4563867, 41.513019 57.4563668, 41.5128371 57.4563498, 41.5126261 57.4563285, 41.5125491 57.4563167, 41.5124347 57.4562927, 41.5123327 57.4562627)</data>
+</edge>
+<edge source="1788872925" target="9338455956" id="0">
+  <data key="d7">[57082336, 57082340]</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">RU:urban</data>
+  <data key="d10">['Проездной переулок', 'улица Корнилова']</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">487.92391274870465</data>
+  <data key="d15">LINESTRING (41.5142833 57.4568536, 41.5144153 57.4569242, 41.5145277 57.456993, 41.5146036 57.4570702, 41.5146253 57.4571689, 41.5143566 57.4572741, 41.5140121 57.457355, 41.5128025 57.4576686, 41.5124793 57.4577573, 41.5119711 57.457926, 41.5119109 57.4579553, 41.5118649 57.4580031, 41.5118515 57.4580535, 41.5118358 57.4581309, 41.5117998 57.4582538, 41.5117323 57.4584554, 41.511595 57.4590011, 41.5115852 57.4592607, 41.5116099 57.4594009, 41.511635 57.459482, 41.5116525 57.4595431, 41.5116831 57.4596032, 41.5117456 57.459689, 41.5118599 57.4598435, 41.511969 57.4599704, 41.5121994 57.4602199)</data>
+</edge>
+<edge source="1788872925" target="1381498072" id="0">
+  <data key="d7">109448054</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Горная Слобода</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">334.3511709012064</data>
+  <data key="d15">LINESTRING (41.5142833 57.4568536, 41.5143013 57.456823, 41.5143251 57.4567827, 41.5143713 57.4567247, 41.5144605 57.456659, 41.5146339 57.4565747, 41.5148607 57.4564967, 41.515037 57.456421, 41.515158 57.4563382, 41.5152399 57.4562338, 41.5152761 57.4560196, 41.5152852 57.4559714, 41.5153541 57.455812, 41.5148839 57.4557328, 41.5145861 57.455698, 41.5142645 57.4556803, 41.5139415 57.4556785, 41.5135682 57.4556891, 41.5133469 57.4556919, 41.5131248 57.4557313, 41.5127213 57.4558005, 41.5122955 57.4558925, 41.5122066 57.4559154)</data>
+</edge>
+<edge source="1789201283" target="1789201294" id="0">
+  <data key="d7">167532517</data>
+  <data key="d8">unclassified</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">108.1958599319114</data>
+</edge>
+<edge source="1789201283" target="712598829" id="0">
+  <data key="d7">57082344</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">улица Льва Толстого</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">183.7234491122296</data>
+  <data key="d15">LINESTRING (41.5088197 57.4548799, 41.5088177 57.4549791, 41.5088383 57.4551308, 41.5088811 57.4553202, 41.5092242 57.4565162)</data>
+</edge>
+<edge source="1789201283" target="712575698" id="0">
+  <data key="d7">57082344</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">улица Льва Толстого</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">40.41945603330851</data>
+  <data key="d15">LINESTRING (41.5088197 57.4548799, 41.5088284 57.4547166, 41.5088546 57.4545715, 41.5089037 57.454524)</data>
+</edge>
+<edge source="1789201294" target="712599125" id="0">
+  <data key="d7">109448065</data>
+  <data key="d8">residential</data>
+  <data key="d10">Ярославская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">179.37056260526109</data>
+</edge>
+<edge source="1789201294" target="1789201283" id="0">
+  <data key="d7">167532517</data>
+  <data key="d8">unclassified</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">108.1958599319114</data>
+</edge>
+<edge source="1789201294" target="1253019398" id="0">
+  <data key="d7">167532517</data>
+  <data key="d8">unclassified</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">105.01625563375404</data>
+</edge>
+<edge source="1789201294" target="1253019475" id="0">
+  <data key="d7">[109448049, 109448065]</data>
+  <data key="d8">['residential', 'unclassified']</data>
+  <data key="d10">Ярославская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">281.48251055792036</data>
+  <data key="d15">LINESTRING (41.507043 57.4550622, 41.5068469 57.4541787, 41.5067186 57.4540227, 41.50573 57.4534754, 41.5054664 57.4533295, 41.5052333 57.4531694, 41.5050174 57.45326, 41.5047526 57.4533179)</data>
+</edge>
+<edge source="1789201348" target="1789201470" id="0">
+  <data key="d7">167532510</data>
+  <data key="d8">residential</data>
+  <data key="d10">Пионерская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">55.514993191707404</data>
+</edge>
+<edge source="1789201348" target="10900329612" id="0">
+  <data key="d7">167532510</data>
+  <data key="d8">residential</data>
+  <data key="d10">Пионерская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">68.64269802525429</data>
+</edge>
+<edge source="1789201348" target="1789201382" id="0">
+  <data key="d7">167532529</data>
+  <data key="d8">unclassified</data>
+  <data key="d10">Комсомольская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">191.65368150166088</data>
+  <data key="d15">LINESTRING (41.494511 57.4554023, 41.4932993 57.4554023, 41.4921144 57.4554023, 41.4918569 57.4554708, 41.4915799 57.4555444, 41.4914511 57.4556344)</data>
+</edge>
+<edge source="1789201378" target="712598846" id="0">
+  <data key="d7">185127008</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">улица Кирова</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">174.4621129298771</data>
+</edge>
+<edge source="1789201378" target="1789201382" id="0">
+  <data key="d7">167532544</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Дзержинского</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">254.05299565759145</data>
+  <data key="d15">LINESTRING (41.4875016 57.455602, 41.4876776 57.4554093, 41.4879931 57.4553677, 41.4893712 57.4553885, 41.4901761 57.4554162, 41.4914511 57.4556344)</data>
+</edge>
+<edge source="1789201378" target="712598930" id="0">
+  <data key="d7">185127008</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">улица Кирова</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">442.45857124399186</data>
+  <data key="d15">LINESTRING (41.4875016 57.455602, 41.4901216 57.4560615, 41.4914585 57.4563211, 41.4928514 57.456578, 41.4933677 57.4566787, 41.4944705 57.4569307)</data>
+</edge>
+<edge source="1789201382" target="1789201348" id="0">
+  <data key="d7">167532529</data>
+  <data key="d8">unclassified</data>
+  <data key="d10">Комсомольская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">191.6536815016609</data>
+  <data key="d15">LINESTRING (41.4914511 57.4556344, 41.4915799 57.4555444, 41.4918569 57.4554708, 41.4921144 57.4554023, 41.4932993 57.4554023, 41.494511 57.4554023)</data>
+</edge>
+<edge source="1789201382" target="1789201488" id="0">
+  <data key="d7">167532544</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Дзержинского</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">118.03487068040181</data>
+  <data key="d15">LINESTRING (41.4914511 57.4556344, 41.4918177 57.4557103, 41.4932928 57.4560155)</data>
+</edge>
+<edge source="1789201382" target="1789201378" id="0">
+  <data key="d7">167532544</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Дзержинского</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">254.0529956575914</data>
+  <data key="d15">LINESTRING (41.4914511 57.4556344, 41.4901761 57.4554162, 41.4893712 57.4553885, 41.4879931 57.4553677, 41.4876776 57.4554093, 41.4875016 57.455602)</data>
+</edge>
+<edge source="1789201467" target="1789201619" id="0">
+  <data key="d7">167532498</data>
+  <data key="d8">residential</data>
+  <data key="d10">Полевой переулок</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">54.02951578940361</data>
+</edge>
+<edge source="1789201467" target="1789201480" id="0">
+  <data key="d7">167532551</data>
+  <data key="d8">residential</data>
+  <data key="d10">Первомайская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">102.90035382594384</data>
+  <data key="d15">LINESTRING (41.4993278 57.4558738, 41.4993977 57.4558756, 41.5010461 57.4559178)</data>
+</edge>
+<edge source="1789201467" target="1789201476" id="0">
+  <data key="d7">167532551</data>
+  <data key="d8">residential</data>
+  <data key="d10">Первомайская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">162.83683696879658</data>
+  <data key="d15">LINESTRING (41.4993278 57.4558738, 41.4988384 57.4558426, 41.4982104 57.4558635, 41.4981108 57.4558669, 41.4975464 57.455881, 41.496612 57.4559043)</data>
+</edge>
+<edge source="1789201470" target="712598930" id="0">
+  <data key="d7">167532510</data>
+  <data key="d8">residential</data>
+  <data key="d10">Пионерская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">114.4885733105072</data>
+</edge>
+<edge source="1789201470" target="1789201348" id="0">
+  <data key="d7">167532510</data>
+  <data key="d8">residential</data>
+  <data key="d10">Пионерская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">55.514993191707404</data>
+</edge>
+<edge source="1789201470" target="1789201475" id="0">
+  <data key="d7">167532551</data>
+  <data key="d8">residential</data>
+  <data key="d10">Первомайская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">68.11388786252982</data>
+</edge>
+<edge source="1789201475" target="1789201833" id="0">
+  <data key="d7">167532472</data>
+  <data key="d8">residential</data>
+  <data key="d10">Сосновая улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">153.72600664106838</data>
+</edge>
+<edge source="1789201475" target="1789201476" id="0">
+  <data key="d7">167532551</data>
+  <data key="d8">residential</data>
+  <data key="d10">Первомайская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">56.719556557591694</data>
+</edge>
+<edge source="1789201475" target="1789201470" id="0">
+  <data key="d7">167532551</data>
+  <data key="d8">residential</data>
+  <data key="d10">Первомайская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">68.11388786252982</data>
+</edge>
+<edge source="1789201476" target="1789201656" id="0">
+  <data key="d7">57082334</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">Лесная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">61.28043070674127</data>
+</edge>
+<edge source="1789201476" target="1789201475" id="0">
+  <data key="d7">167532551</data>
+  <data key="d8">residential</data>
+  <data key="d10">Первомайская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">56.719556557591694</data>
+</edge>
+<edge source="1789201476" target="712598972" id="0">
+  <data key="d7">57082334</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">Лесная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">133.17131796404203</data>
+  <data key="d15">LINESTRING (41.496612 57.4559043, 41.4966252 57.4554893, 41.4965921 57.4552281, 41.4965627 57.4549958, 41.4964678 57.4547824, 41.4964169 57.4547196)</data>
+</edge>
+<edge source="1789201476" target="1789201467" id="0">
+  <data key="d7">167532551</data>
+  <data key="d8">residential</data>
+  <data key="d10">Первомайская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">162.83683696879658</data>
+  <data key="d15">LINESTRING (41.496612 57.4559043, 41.4975464 57.455881, 41.4981108 57.4558669, 41.4982104 57.4558635, 41.4988384 57.4558426, 41.4993278 57.4558738)</data>
+</edge>
+<edge source="1789201480" target="1789201467" id="0">
+  <data key="d7">167532551</data>
+  <data key="d8">residential</data>
+  <data key="d10">Первомайская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">102.90035382594384</data>
+  <data key="d15">LINESTRING (41.5010461 57.4559178, 41.4993977 57.4558756, 41.4993278 57.4558738)</data>
+</edge>
+<edge source="1789201488" target="1789201382" id="0">
+  <data key="d7">167532544</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Дзержинского</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">118.03487068040181</data>
+  <data key="d15">LINESTRING (41.4932928 57.4560155, 41.4918177 57.4557103, 41.4914511 57.4556344)</data>
+</edge>
+<edge source="1789201608" target="1789201619" id="0">
+  <data key="d7">167532514</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Мира</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">108.08073167859098</data>
+</edge>
+<edge source="1789201608" target="1789201810" id="0">
+  <data key="d7">167532505</data>
+  <data key="d8">residential</data>
+  <data key="d10">переулок Калинина</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">97.02992186991435</data>
+  <data key="d15">LINESTRING (41.5011914 57.4562942, 41.5013338 57.4566166, 41.5015128 57.4571492)</data>
+</edge>
+<edge source="1789201608" target="9333642581" id="0">
+  <data key="d7">1011624544</data>
+  <data key="d8">unclassified</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">348.7651677450049</data>
+  <data key="d15">LINESTRING (41.5011914 57.4562942, 41.5012096 57.4560109, 41.5011199 57.4556078, 41.5010161 57.4551871, 41.5009142 57.4547332, 41.5007749 57.45435, 41.5006246 57.4533714, 41.5006139 57.4533017, 41.5006026 57.4531787)</data>
+</edge>
+<edge source="1789201619" target="1789201467" id="0">
+  <data key="d7">167532498</data>
+  <data key="d8">residential</data>
+  <data key="d10">Полевой переулок</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">54.02951578940361</data>
+</edge>
+<edge source="1789201619" target="1789201824" id="0">
+  <data key="d7">167532498</data>
+  <data key="d8">residential</data>
+  <data key="d10">Полевой переулок</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">99.20949253092775</data>
+</edge>
+<edge source="1789201619" target="1789201608" id="0">
+  <data key="d7">167532514</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Мира</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">108.08073167859098</data>
+</edge>
+<edge source="1789201619" target="1789201656" id="0">
+  <data key="d7">167532514</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Мира</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">166.7461374366726</data>
+  <data key="d15">LINESTRING (41.4993885 57.4563586, 41.4982694 57.4563949, 41.4966067 57.4564554)</data>
+</edge>
+<edge source="1789201656" target="712599069" id="0">
+  <data key="d7">57082334</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">Лесная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">102.10224161536189</data>
+</edge>
+<edge source="1789201656" target="1789201476" id="0">
+  <data key="d7">57082334</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">Лесная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">61.28043070674127</data>
+</edge>
+<edge source="1789201656" target="1789201619" id="0">
+  <data key="d7">167532514</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Мира</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">166.7461374366726</data>
+  <data key="d15">LINESTRING (41.4966067 57.4564554, 41.4982694 57.4563949, 41.4993885 57.4563586)</data>
+</edge>
+<edge source="1789201810" target="1789201608" id="0">
+  <data key="d7">167532505</data>
+  <data key="d8">residential</data>
+  <data key="d10">переулок Калинина</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">97.02992186991435</data>
+  <data key="d15">LINESTRING (41.5015128 57.4571492, 41.5013338 57.4566166, 41.5011914 57.4562942)</data>
+</edge>
+<edge source="1789201810" target="1789201824" id="0">
+  <data key="d7">167704007</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">улица Калинина</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">120.94645936226696</data>
+  <data key="d15">LINESTRING (41.5015128 57.4571492, 41.501109 57.457179, 41.5002901 57.4572145, 41.4994998 57.4572488)</data>
+</edge>
+<edge source="1789201810" target="712599035" id="0">
+  <data key="d7">167704007</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">улица Калинина</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">83.71034449725525</data>
+  <data key="d15">LINESTRING (41.5015128 57.4571492, 41.5018618 57.4571036, 41.5025255 57.4569767, 41.5028571 57.4569477)</data>
+</edge>
+<edge source="1789201824" target="1789201619" id="0">
+  <data key="d7">167532498</data>
+  <data key="d8">residential</data>
+  <data key="d10">Полевой переулок</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">99.20949253092775</data>
+</edge>
+<edge source="1789201824" target="712599069" id="0">
+  <data key="d7">167704007</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">улица Калинина</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">172.83696518497578</data>
+</edge>
+<edge source="1789201824" target="1789201810" id="0">
+  <data key="d7">167704007</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">улица Калинина</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">120.94645936226696</data>
+  <data key="d15">LINESTRING (41.4994998 57.4572488, 41.5002901 57.4572145, 41.501109 57.457179, 41.5015128 57.4571492)</data>
+</edge>
+<edge source="1789201833" target="1789201475" id="0">
+  <data key="d7">167532472</data>
+  <data key="d8">residential</data>
+  <data key="d10">Сосновая улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">153.72600664106838</data>
+</edge>
+<edge source="1789201833" target="1382941042" id="0">
+  <data key="d7">185127008</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">улица Кирова</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">20.949093014409694</data>
+</edge>
+<edge source="1789201833" target="712599069" id="0">
+  <data key="d7">185127008</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">улица Кирова</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">61.54081176251886</data>
+  <data key="d15">LINESTRING (41.4956346 57.4572839, 41.4959257 57.457362, 41.4962339 57.4573977, 41.4966196 57.4573736)</data>
+</edge>
+<edge source="1789202187" target="712598977" id="0">
+  <data key="d7">109448039</data>
+  <data key="d8">residential</data>
+  <data key="d10">2-я Запрудная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">161.68469553535883</data>
+  <data key="d15">LINESTRING (41.5033417 57.4598244, 41.503452 57.4597894, 41.5033568 57.4592557, 41.5032297 57.4587524, 41.5029998 57.4584345)</data>
+</edge>
+<edge source="1789202193" target="712598960" id="0">
+  <data key="d7">[124024873, 702540188]</data>
+  <data key="d8">residential</data>
+  <data key="d10">['улица Карла Маркса', 'улица Льва Толстого']</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">495.5624319019869</data>
+  <data key="d15">LINESTRING (41.5051562 57.4598928, 41.5062465 57.4597615, 41.5066323 57.4597151, 41.5088504 57.459504, 41.5097743 57.4594021, 41.51021 57.4593601, 41.5096288 57.4577033)</data>
+</edge>
+<edge source="1789202463" target="5591895778" id="0">
+  <data key="d7">585087207</data>
+  <data key="d8">unclassified</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">47.175562461966535</data>
+</edge>
+<edge source="1789202463" target="1381498419" id="0">
+  <data key="d7">167532484</data>
+  <data key="d8">unclassified</data>
+  <data key="d10">улица Островского</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">391.1683486860825</data>
+  <data key="d15">LINESTRING (41.4966732 57.4612684, 41.4968086 57.4616262, 41.4969131 57.4619687, 41.4968911 57.4621825, 41.496903 57.4622764, 41.4970494 57.4624217, 41.497214 57.4624949, 41.4973664 57.4625157, 41.4975085 57.4625061, 41.4983641 57.4623961, 41.4991454 57.462202, 41.4992377 57.4621739, 41.4995896 57.4620665, 41.4998397 57.4619867, 41.4999019 57.4619668, 41.5001319 57.461917, 41.5003481 57.4618893, 41.5010852 57.461904)</data>
+</edge>
+<edge source="1789202463" target="1382941048" id="0">
+  <data key="d7">167789494</data>
+  <data key="d8">unclassified</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">292.130998190161</data>
+  <data key="d15">LINESTRING (41.4966732 57.4612684, 41.4964904 57.4608869, 41.4960643 57.4600714, 41.4959546 57.4598108, 41.4959173 57.4597224, 41.4957153 57.4592428, 41.4956856 57.4591874, 41.4954394 57.4587272)</data>
+</edge>
+<edge source="1789203216" target="1253019409" id="0">
+  <data key="d7">109448060</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Ленина</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">927.6661395053846</data>
+  <data key="d15">LINESTRING (41.4864081 57.4654318, 41.4872919 57.4653062, 41.4882657 57.4651783, 41.4883568 57.4651629, 41.4914776 57.464633, 41.4924516 57.4644741, 41.4927517 57.4644252, 41.4938619 57.4642332, 41.4951401 57.4640056, 41.498011 57.4635667, 41.498047 57.4635612, 41.4985358 57.4634865, 41.4988537 57.4634379, 41.499091 57.4634159, 41.4993675 57.4634225, 41.4998838 57.4634356, 41.5003 57.4633473, 41.5012681 57.463142)</data>
+</edge>
+<edge source="2395112114" target="1381498419" id="0">
+  <data key="d7">231104363</data>
+  <data key="d8">unclassified</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">102.5863516046358</data>
+  <data key="d15">LINESTRING (41.5000357 57.4612199, 41.5001378 57.4613836, 41.5001714 57.461441, 41.5002602 57.4615313, 41.5003433 57.4616019, 41.5004379 57.4616587, 41.5005267 57.46171, 41.5006439 57.4617544, 41.5010852 57.461904)</data>
+</edge>
+<edge source="2947924826" target="456844541" id="0">
+  <data key="d7">1195015393</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">40</data>
+  <data key="d10">улица Корнилова</data>
+  <data key="d11">24Н-252</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">10.94368321790649</data>
+</edge>
+<edge source="2947924826" target="1381498076" id="0">
+  <data key="d7">1195015393</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">40</data>
+  <data key="d10">улица Корнилова</data>
+  <data key="d11">24Н-252</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">32.24517659429493</data>
+</edge>
+<edge source="2947924826" target="1381498072" id="0">
+  <data key="d7">291334396</data>
+  <data key="d8">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">32.920200891250566</data>
+  <data key="d15">LINESTRING (41.5121853 57.4562044, 41.5122136 57.4561701, 41.5122294 57.4561509, 41.5122459 57.4561031, 41.5122327 57.4560252, 41.5122066 57.4559154)</data>
+</edge>
+<edge source="2947925038" target="950917639" id="0">
+  <data key="d7">167561193</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Спуск горы Свободы</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">75.59537196517704</data>
+</edge>
+<edge source="2947925038" target="950916861" id="0">
+  <data key="d7">167561193</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Спуск горы Свободы</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">39.65493277305259</data>
+</edge>
+<edge source="2947925038" target="11242142817" id="0">
+  <data key="d7">1213425284</data>
+  <data key="d8">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">165.3424348950171</data>
+  <data key="d15">LINESTRING (41.5173406 57.4570337, 41.5173432 57.4572801, 41.5174083 57.457512, 41.5174896 57.457676, 41.5176929 57.4578291, 41.5178473 57.458004, 41.5179937 57.4580784, 41.5182132 57.4582118, 41.5184084 57.458343)</data>
+</edge>
+<edge source="5591895778" target="1789202463" id="0">
+  <data key="d7">585087207</data>
+  <data key="d8">unclassified</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">47.175562461966535</data>
+</edge>
+<edge source="9333642581" target="1253019466" id="0">
+  <data key="d7">109448046</data>
+  <data key="d8">unclassified</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">355.66753606714144</data>
+  <data key="d15">LINESTRING (41.5006026 57.4531787, 41.4995025 57.4532145, 41.4995405 57.4535298, 41.499589 57.4538992, 41.4993243 57.4539054, 41.4985845 57.4539138, 41.4971501 57.45393, 41.4960222 57.4539427)</data>
+</edge>
+<edge source="9333642581" target="1253019427" id="0">
+  <data key="d7">109448046</data>
+  <data key="d8">unclassified</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">174.73633333846462</data>
+  <data key="d15">LINESTRING (41.5006026 57.4531787, 41.5009236 57.4531594, 41.5024664 57.4530213, 41.5027661 57.4529884, 41.5031954 57.4529427, 41.5034815 57.4529158)</data>
+</edge>
+<edge source="9333642581" target="1789201608" id="0">
+  <data key="d7">1011624544</data>
+  <data key="d8">unclassified</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">348.7651677450049</data>
+  <data key="d15">LINESTRING (41.5006026 57.4531787, 41.5006139 57.4533017, 41.5006246 57.4533714, 41.5007749 57.45435, 41.5009142 57.4547332, 41.5010161 57.4551871, 41.5011199 57.4556078, 41.5012096 57.4560109, 41.5011914 57.4562942)</data>
+</edge>
+<edge source="9333642593" target="1253019427" id="0">
+  <data key="d7">109448042</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">1-я Запрудная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">49.51229839393743</data>
+</edge>
+<edge source="9333642593" target="1253019475" id="0">
+  <data key="d7">109448049</data>
+  <data key="d8">unclassified</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">85.2831096835318</data>
+</edge>
+<edge source="9333642593" target="1253019396" id="0">
+  <data key="d7">109448042</data>
+  <data key="d8">tertiary</data>
+  <data key="d10">1-я Запрудная улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">228.5355351495301</data>
+  <data key="d15">LINESTRING (41.5033285 57.4533534, 41.5035513 57.454372, 41.503676 57.4547605, 41.5038957 57.4553848)</data>
+</edge>
+<edge source="9338407011" target="950917639" id="0">
+  <data key="d7">109448050</data>
+  <data key="d8">residential</data>
+  <data key="d9">RU:urban</data>
+  <data key="d10">Юрьевская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">743.0816466314931</data>
+  <data key="d15">LINESTRING (41.5124782 57.4604468, 41.5126964 57.4604171, 41.5132356 57.4603623, 41.5135965 57.4603029, 41.5145856 57.4601692, 41.5155255 57.4600621, 41.515799 57.4600377, 41.5162129 57.4599851, 41.516662 57.4599371, 41.5171024 57.4599487, 41.517375 57.4599612, 41.5175827 57.4599672, 41.5178954 57.4599394, 41.5186228 57.4598295, 41.518834 57.4597939, 41.5191841 57.4596825, 41.519587 57.4595866, 41.5197922 57.4594501, 41.5198643 57.4591704, 41.5199157 57.4589145, 41.5195319 57.4584862, 41.5190785 57.4579729, 41.5189556 57.457855, 41.5185665 57.4574816, 41.5185059 57.4572368, 41.5186003 57.4570885)</data>
+</edge>
+<edge source="9338407011" target="9338455956" id="0">
+  <data key="d7">109448064</data>
+  <data key="d8">residential</data>
+  <data key="d9">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">30.282113236707428</data>
+  <data key="d15">LINESTRING (41.5124782 57.4604468, 41.5122859 57.4603023, 41.5121994 57.4602199)</data>
+</edge>
+<edge source="9338407011" target="950917142" id="0">
+  <data key="d7">109448064</data>
+  <data key="d8">residential</data>
+  <data key="d9">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">92.82419675269901</data>
+  <data key="d15">LINESTRING (41.5124782 57.4604468, 41.5126669 57.4606082, 41.5127765 57.4607651, 41.5128185 57.4608417, 41.5130117 57.4612245)</data>
+</edge>
+<edge source="9338407011" target="1501753139" id="0">
+  <data key="d7">335730346</data>
+  <data key="d8">residential</data>
+  <data key="d9">RU:urban</data>
+  <data key="d10">улица Ленина</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">21.48851841576266</data>
+  <data key="d15">LINESTRING (41.5124782 57.4604468, 41.5122842 57.4604731, 41.5121298 57.460494)</data>
+</edge>
+<edge source="9338455956" target="1788872925" id="0">
+  <data key="d7">[57082336, 57082340]</data>
+  <data key="d8">tertiary</data>
+  <data key="d9">RU:urban</data>
+  <data key="d10">['Проездной переулок', 'улица Корнилова']</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">487.92391274870477</data>
+  <data key="d15">LINESTRING (41.5121994 57.4602199, 41.511969 57.4599704, 41.5118599 57.4598435, 41.5117456 57.459689, 41.5116831 57.4596032, 41.5116525 57.4595431, 41.511635 57.459482, 41.5116099 57.4594009, 41.5115852 57.4592607, 41.511595 57.4590011, 41.5117323 57.4584554, 41.5117998 57.4582538, 41.5118358 57.4581309, 41.5118515 57.4580535, 41.5118649 57.4580031, 41.5119109 57.4579553, 41.5119711 57.457926, 41.5124793 57.4577573, 41.5128025 57.4576686, 41.5140121 57.457355, 41.5143566 57.4572741, 41.5146253 57.4571689, 41.5146036 57.4570702, 41.5145277 57.456993, 41.5144153 57.4569242, 41.5142833 57.4568536)</data>
+</edge>
+<edge source="9338455956" target="9338407011" id="0">
+  <data key="d7">109448064</data>
+  <data key="d8">residential</data>
+  <data key="d9">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">30.282113236707428</data>
+  <data key="d15">LINESTRING (41.5121994 57.4602199, 41.5122859 57.4603023, 41.5124782 57.4604468)</data>
+</edge>
+<edge source="9338455956" target="1501753139" id="0">
+  <data key="d7">1012203230</data>
+  <data key="d8">tertiary</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">31.253545177081193</data>
+  <data key="d15">LINESTRING (41.5121994 57.4602199, 41.5122131 57.460331, 41.5121702 57.4604419, 41.5121298 57.460494)</data>
+</edge>
+<edge source="9727057401" target="1253019452" id="0">
+  <data key="d7">[109448051, 230079341]</data>
+  <data key="d8">secondary</data>
+  <data key="d9">['RU:urban', '40']</data>
+  <data key="d10">улица Корнилова</data>
+  <data key="d11">24Н-252</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">793.3252947983314</data>
+  <data key="d15">LINESTRING (41.494875 57.447815, 41.4952431 57.4480059, 41.4961601 57.4484409, 41.4980813 57.4492488, 41.5006847 57.4502929, 41.50251 57.4510458, 41.5025833 57.451076, 41.5030109 57.4512524, 41.5033652 57.4514675, 41.5040291 57.4518017, 41.5050698 57.4523577)</data>
+</edge>
+<edge source="9727057401" target="1787819553" id="0">
+  <data key="d7">[167383882, 1014060974, 1014060975]</data>
+  <data key="d8">unclassified</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">341.49912622606394</data>
+  <data key="d17">yes</data>
+  <data key="d15">LINESTRING (41.494875 57.447815, 41.4950073 57.4477119, 41.4951252 57.4476082, 41.4952362 57.4474142, 41.4952916 57.4472587, 41.495255 57.4469462, 41.494882 57.4462398, 41.4948062 57.4460666, 41.4950856 57.4459815, 41.4952571 57.4459658, 41.4970047 57.445723)</data>
+</edge>
+<edge source="10900329612" target="1789201348" id="0">
+  <data key="d7">167532510</data>
+  <data key="d8">residential</data>
+  <data key="d10">Пионерская улица</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">68.64269802525429</data>
+</edge>
+<edge source="10900329612" target="712598846" id="0">
+  <data key="d7">167533049</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Гагарина</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">631.3062002331521</data>
+  <data key="d15">LINESTRING (41.4945023 57.454785, 41.4918816 57.4547786, 41.4908977 57.4547641, 41.4902242 57.4547541, 41.4867636 57.4546605, 41.4853177 57.4546189, 41.4850405 57.4546436, 41.4847849 57.4547542, 41.4847115 57.4548902, 41.4847067 57.4551536)</data>
+</edge>
+<edge source="10900329612" target="712598972" id="0">
+  <data key="d7">167533049</data>
+  <data key="d8">residential</data>
+  <data key="d10">улица Гагарина</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">115.43350402600441</data>
+  <data key="d15">LINESTRING (41.4945023 57.454785, 41.4960252 57.4547786, 41.4964169 57.4547196)</data>
+</edge>
+<edge source="11242142817" target="2947925038" id="0">
+  <data key="d7">1213425284</data>
+  <data key="d8">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">165.34243489501713</data>
+  <data key="d15">LINESTRING (41.5184084 57.458343, 41.5182132 57.4582118, 41.5179937 57.4580784, 41.5178473 57.458004, 41.5176929 57.4578291, 41.5174896 57.457676, 41.5174083 57.457512, 41.5173432 57.4572801, 41.5173406 57.4570337)</data>
+</edge>
+</graph></graphml>
